@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price,Quantity,Date
+1,Product A,Electronics,100.50,5,2023-05-01
+2,Product B,Home Appliances,75.25,3,2023-05-02
+3,Product C,Clothing,50.00,10,2023-05-03
+4,Product D,Electronics,120.75,2,2023-05-04
+5,Product E,Clothing,80.00,8,2023-05-05
+6,Product F,Home Appliances,65.50,4,2023-05-06
+7,Product G,Clothing,45.75,6,2023-05-07
+8,Product H,Electronics,150.25,1,2023-05-08
+9,Product I,Home Appliances,70.00,7,2023-05-09
+10,Product J,Clothing,55.50,9,2023-05-10

@@ -1,0 +1,11 @@
+Vous disposez d'un fichier CSV contenant des informations sur les ventes de produits, avec les colonnes suivantes : produit, quantité, prix_unitaire, pays. Votre tâche est de réaliser une analyse des ventes en effectuant les étapes suivantes :
+
+Charger le fichier CSV dans un RDD.
+Filtrer les lignes vides ou mal formatées.
+Mapper chaque ligne pour extraire les informations pertinentes (produit, quantité, prix_unitaire, pays).
+Calculer le montant total des ventes par pays.
+Trouver le pays avec le montant total de ventes le plus élevé.
+Calculer le montant total des ventes pour chaque produit.
+Trouver les 3 produits les plus vendus.
+Calculer le montant total des ventes pour chaque mois (supposez une colonne supplémentaire "mois" dans le fichier CSV).
+Trouver le mois avec le montant total de ventes le plus élevé.

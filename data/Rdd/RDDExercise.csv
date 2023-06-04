@@ -1,0 +1,10 @@
+product,quantity,price_unit,country,month
+Apple,10,1.5,USA,January
+Orange,5,2.0,USA,January
+Banana,8,1.0,USA,February
+Apple,12,1.5,UK,January
+Grapes,6,3.0,UK,February
+Orange,3,2.0,UK,February
+Apple,15,1.5,France,February
+Banana,10,1.0,France,January
+Grapes,9,3.0,France,January
